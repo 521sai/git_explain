@@ -1,6 +1,5 @@
 def fun():
-    if (True):
-        return 1
-    else:
-        return 0
+    i=4
+    for i in range(5):
+        print(i)
 fun()
